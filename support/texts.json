@@ -1,0 +1,38 @@
+{
+  "_nota": "Textos de devolutiva. Tom acolhedor, sem rótulos clínicos, sempre com algo que a pessoa pode fazer (RNF10). Revise aqui sem mexer no código.",
+  "verde_positivo": "Hoje o seu texto parece leve, e isso é ótimo. Registrei a entrada. Se quiser, anote uma coisa boa de hoje para reler nos dias mais pesados.",
+  "verde_neutro": "Obrigado por escrever hoje. Registrei a entrada, e você segue perto do seu normal. Que tal fazer uma pausa curta para esticar o corpo?",
+  "amarelo_geral": "Percebi que hoje você está um pouco longe do seu normal. Vale tentar a sugestão abaixo, é rápida.",
+  "amarelo_tema": {
+    "cansaco_sono": "Parece que o cansaço está pesando. Vamos tentar uma rotina de sono simples hoje? A sugestão está logo abaixo.",
+    "ansiedade": "Percebi preocupação e tensão no seu texto. Uma respiração guiada de 3 minutos pode ajudar agora. A sugestão está abaixo.",
+    "humor_baixo": "Parece que o ânimo está baixo hoje. Uma atividade de que você gosta, marcada para hoje, pode ajudar. Veja a sugestão abaixo.",
+    "saudade_isolamento": "A saudade apareceu no seu texto. Uma mensagem para casa ou um momento com a tripulação pode aquecer o dia. Veja abaixo.",
+    "conflito": "Parece que a convivência está tensa. Um tempo a sós e uma conversa tranquila depois podem ajudar. Veja o roteiro abaixo.",
+    "sobrecarga": "Parece que as tarefas estão apertando. Uma pausa e três prioridades para hoje podem aliviar. A sugestão está abaixo.",
+    "monotonia": "Os dias parecem iguais. Uma atividade nova pode quebrar essa repetição. Veja a sugestão abaixo."
+  },
+  "vermelho_tema": {
+    "cansaco_sono": "Seus últimos dias têm sido pesados, com muito cansaço. Isso merece cuidado.",
+    "ansiedade": "Seus últimos dias têm sido de muita preocupação e tensão. Isso merece cuidado.",
+    "humor_baixo": "Seus últimos dias têm sido de ânimo muito baixo. Isso merece cuidado.",
+    "saudade_isolamento": "Seus últimos dias têm sido de muita saudade e solidão. Isso merece cuidado.",
+    "conflito": "Seus últimos dias têm sido de muita tensão com a tripulação. Isso merece cuidado.",
+    "sobrecarga": "Seus últimos dias têm sido de muita sobrecarga. Isso merece cuidado.",
+    "monotonia": "Seus últimos dias têm sido de muita monotonia. Isso merece cuidado."
+  },
+  "vermelho_geral": "Seus últimos dias estão bem mais pesados do que o seu normal. Isso merece cuidado.",
+  "escalonamento": "Procure o oficial médico da tripulação ainda hoje, para conversar com calma. Enquanto isso, a sugestão abaixo pode ajudar. Um resumo, sem o seu texto, segue para a Terra assim que o link permitir.",
+  "motivo": {
+    "tema": "Apareceu {tema} no seu texto",
+    "persistencia": "em {n} dos últimos 7 dias",
+    "tom": "O tom do seu texto está mais baixo que o seu normal",
+    "sensor": {
+      "sleep": "o seu sono está abaixo do seu normal",
+      "hr": "a sua frequência cardíaca de repouso está acima do seu normal",
+      "activity": "a sua atividade está abaixo do seu normal"
+    },
+    "persistencia_sem_tema": "{tema} apareceu em {n} dos últimos 7 dias"
+  },
+  "amarelo_recuperacao": "Que bom que hoje você parece melhor. Nos últimos dias {tema} pesou bastante, então vale manter um cuidado leve. A sugestão está abaixo."
+}

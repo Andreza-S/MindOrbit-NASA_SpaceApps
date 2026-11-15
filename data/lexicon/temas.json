@@ -1,0 +1,85 @@
+{
+  "cansaco_sono": [
+    "exaust",
+    "cansad",
+    "cansaco",
+    "insonia",
+    "insone",
+    "sonolent",
+    "esgotad",
+    "fadiga",
+    "pesadelo",
+    "olheira"
+  ],
+  "ansiedade": [
+    "preocupad",
+    "preocupacao",
+    "tenso",
+    "tensa",
+    "tensao",
+    "medo",
+    "ansios",
+    "ansiedade",
+    "nervos",
+    "apreensiv",
+    "inquiet",
+    "angusti",
+    "panico"
+  ],
+  "humor_baixo": [
+    "triste",
+    "tristeza",
+    "desanimad",
+    "vazio",
+    "vazia",
+    "desmotivad",
+    "abatid",
+    "apatic",
+    "chor",
+    "desesper",
+    "melancol"
+  ],
+  "saudade_isolamento": [
+    "familia",
+    "sozinh",
+    "saudade",
+    "isolad",
+    "solitari",
+    "solidao",
+    "filh",
+    "esposa",
+    "marido"
+  ],
+  "conflito": [
+    "discuss",
+    "discuti",
+    "irritad",
+    "briga",
+    "conflito",
+    "raiva",
+    "impacient",
+    "atrito",
+    "grosser",
+    "desentend"
+  ],
+  "sobrecarga": [
+    "atrasad",
+    "prazo",
+    "sobrecarreg",
+    "correria",
+    "cobranca",
+    "acumul",
+    "sufocad",
+    "urgente",
+    "urgencia"
+  ],
+  "monotonia": [
+    "tedio",
+    "repetitiv",
+    "monoton",
+    "entediad",
+    "enfadonh",
+    "mesmice",
+    "marasmo"
+  ]
+}

@@ -1,0 +1,3602 @@
+[
+ {
+  "crew_id": "T1",
+  "day": 1,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 1,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 1,
+  "text": "Treino leve e um bom filme à noite. Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 1,
+  "text": "Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 2,
+  "text": "Revisei os procedimentos de emergência com a comandante. Estou animado com o experimento de amanhã. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 2,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 2,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 2,
+  "text": "Atualizei o inventário de suprimentos. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T1",
+  "day": 3,
+  "text": "Coletei amostras para o laboratório. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T2",
+  "day": 3,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 3,
+  "text": "Terminei o experimento da manhã. Estou animado com o experimento de amanhã. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T4",
+  "day": 3,
+  "text": "Limpei os filtros de ar e organizei o módulo. Dia tranquilo, treinei e estou bem. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 4,
+  "text": "Semana com prazo apertado no treinamento."
+ },
+ {
+  "crew_id": "T2",
+  "day": 4,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 4,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T4",
+  "day": 4,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 5,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 5,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 5,
+  "text": "Gostei muito da conversa com a equipe no jantar. Limpei os filtros de ar e organizei o módulo. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 5,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 6,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 6,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 6,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 6,
+  "text": "Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 7,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 7,
+  "text": "Coletei amostras para o laboratório. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 7,
+  "text": "Limpei os filtros de ar e organizei o módulo. Treino leve e um bom filme à noite. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 7,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 8,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 8,
+  "text": "Atualizei o inventário de suprimentos. Estou animado com o experimento de amanhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 8,
+  "text": "Vi a Terra pela janela e fiquei em paz. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 8,
+  "text": "Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T1",
+  "day": 9,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 9,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 9,
+  "text": "Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 9,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 10,
+  "text": "Treino leve e um bom filme à noite. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 10,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 10,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 10,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 11,
+  "text": "Atualizei o inventário de suprimentos. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T2",
+  "day": 11,
+  "text": "Me sinto disposto e motivado. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 11,
+  "text": "Me sinto disposto e motivado. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 11,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 12,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 12,
+  "text": "Vi a Terra pela janela e fiquei em paz. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 12,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 12,
+  "text": "Vi a Terra pela janela e fiquei em paz. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 13,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 13,
+  "text": "Limpei os filtros de ar e organizei o módulo. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 13,
+  "text": "Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 13,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 14,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 14,
+  "text": "Atualizei o inventário de suprimentos. Me sinto disposto e motivado. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 14,
+  "text": "Revisei os procedimentos de emergência com a comandante. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 14,
+  "text": "Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 15,
+  "text": "Atualizei o inventário de suprimentos. Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 15,
+  "text": "Coletei amostras para o laboratório. Dia tranquilo, treinei e estou bem. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 15,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 15,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 16,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 16,
+  "text": "Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 16,
+  "text": "Hoje teve um certo tédio no turno da noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 16,
+  "text": "Terminei o experimento da manhã. Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 17,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma. Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 17,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 17,
+  "text": "Coletei amostras para o laboratório. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 17,
+  "text": "Dormi bem e comecei o dia descansado. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 18,
+  "text": "Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 18,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 18,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 18,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 19,
+  "text": "Vi a Terra pela janela e fiquei em paz. Me sinto disposto e motivado. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 19,
+  "text": "Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 19,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 19,
+  "text": "Vi a Terra pela janela e fiquei em paz. Estou animado com o experimento de amanhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 20,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 20,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 20,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 20,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 21,
+  "text": "Me sinto disposto e motivado. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 21,
+  "text": "Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 21,
+  "text": "Coletei amostras para o laboratório. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 21,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 22,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 22,
+  "text": "Dia tranquilo, treinei e estou bem. Limpei os filtros de ar e organizei o módulo. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T3",
+  "day": 22,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Gostei muito da conversa com a equipe no jantar. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 22,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 23,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T2",
+  "day": 23,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 23,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 23,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 24,
+  "text": "Dia tranquilo, treinei e estou bem. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 24,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T3",
+  "day": 24,
+  "text": "Atualizei o inventário de suprimentos. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T4",
+  "day": 24,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 25,
+  "text": "Coletei amostras para o laboratório. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 25,
+  "text": "Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 25,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 25,
+  "text": "Atualizei o inventário de suprimentos. Vi a Terra pela janela e fiquei em paz. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 26,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 26,
+  "text": "Limpei os filtros de ar e organizei o módulo. Dormi bem e comecei o dia descansado. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 26,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 26,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 27,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 27,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 27,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 27,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 28,
+  "text": "Me sinto disposto e motivado. Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 28,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 28,
+  "text": "Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 28,
+  "text": "Atualizei o inventário de suprimentos. Dormi bem e comecei o dia descansado. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T1",
+  "day": 29,
+  "text": "Terminei o experimento da manhã. Semana com prazo apertado no treinamento."
+ },
+ {
+  "crew_id": "T2",
+  "day": 29,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 29,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 29,
+  "text": "Terminei o experimento da manhã. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 30,
+  "text": "Dia tranquilo, treinei e estou bem. Estou animado com o experimento de amanhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 30,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 30,
+  "text": "Revisei os procedimentos de emergência com a comandante. Hoje teve um certo tédio no turno da noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 30,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T1",
+  "day": 31,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T2",
+  "day": 31,
+  "text": "Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 31,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 31,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 32,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 32,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 32,
+  "text": "Treino leve e um bom filme à noite. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 32,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 33,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 33,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 33,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 33,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 34,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 34,
+  "text": "Terminei o experimento da manhã. Dormi bem e comecei o dia descansado. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 34,
+  "text": "Atualizei o inventário de suprimentos. Limpei os filtros de ar e organizei o módulo. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 34,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 35,
+  "text": "Coletei amostras para o laboratório. Semana com prazo apertado no treinamento."
+ },
+ {
+  "crew_id": "T2",
+  "day": 35,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 35,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 35,
+  "text": "Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 36,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 36,
+  "text": "Atualizei o inventário de suprimentos. Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 36,
+  "text": "Terminei o experimento da manhã. Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 36,
+  "text": "Gostei muito da conversa com a equipe no jantar. Atualizei o inventário de suprimentos. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T1",
+  "day": 37,
+  "text": "Atualizei o inventário de suprimentos. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 37,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 37,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 37,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 38,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 38,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 38,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 38,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 39,
+  "text": "Atualizei o inventário de suprimentos. Estou animado com o experimento de amanhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 39,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 39,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 39,
+  "text": "Terminei o experimento da manhã. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 40,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 40,
+  "text": "Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 40,
+  "text": "Atualizei o inventário de suprimentos. Gostei muito da conversa com a equipe no jantar. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 40,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 41,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 41,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 41,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 41,
+  "text": "Terminei o experimento da manhã. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 42,
+  "text": "Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 42,
+  "text": "Atualizei o inventário de suprimentos. Dia tranquilo, treinei e estou bem. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 42,
+  "text": "Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 42,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 43,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 43,
+  "text": "Dormi bem e comecei o dia descansado. Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 43,
+  "text": "Treino leve e um bom filme à noite. Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 43,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Dia tranquilo, treinei e estou bem. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 44,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 44,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T3",
+  "day": 44,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 44,
+  "text": "Atualizei o inventário de suprimentos. Me sinto disposto e motivado. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 45,
+  "text": "Dormi bem e comecei o dia descansado. Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 45,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 45,
+  "text": "Revisei os procedimentos de emergência com a comandante. Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 45,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 46,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 46,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 46,
+  "text": "Limpei os filtros de ar e organizei o módulo. Hoje teve um certo tédio no turno da noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 46,
+  "text": "Coletei amostras para o laboratório. Me sinto disposto e motivado. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 47,
+  "text": "Atualizei o inventário de suprimentos. Dormi bem e comecei o dia descansado. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T2",
+  "day": 47,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 47,
+  "text": "Atualizei o inventário de suprimentos. Gostei muito da conversa com a equipe no jantar. Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 47,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 48,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 48,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 48,
+  "text": "Estou animado com o experimento de amanhã. Dia tranquilo, treinei e estou bem. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 48,
+  "text": "Atualizei o inventário de suprimentos. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T1",
+  "day": 49,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 49,
+  "text": "Dormi bem e comecei o dia descansado. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 49,
+  "text": "Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 49,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 50,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 50,
+  "text": "Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 50,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 50,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 51,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 51,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 51,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 51,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 52,
+  "text": "Gostei muito da conversa com a equipe no jantar. Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 52,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 52,
+  "text": "Vi a Terra pela janela e fiquei em paz. Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 52,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 53,
+  "text": "Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 53,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T3",
+  "day": 53,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 53,
+  "text": "Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 54,
+  "text": "Vi a Terra pela janela e fiquei em paz. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 54,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 54,
+  "text": "Terminei o experimento da manhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 54,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 55,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 55,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 55,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T4",
+  "day": 55,
+  "text": "Terminei o experimento da manhã. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 56,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 56,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 56,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 56,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 57,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 57,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 57,
+  "text": "Dormi bem e comecei o dia descansado. Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 57,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 58,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 58,
+  "text": "Atualizei o inventário de suprimentos. Treino leve e um bom filme à noite. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 58,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 58,
+  "text": "Limpei os filtros de ar e organizei o módulo. Vi a Terra pela janela e fiquei em paz. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 59,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 59,
+  "text": "Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 59,
+  "text": "Estou animado com o experimento de amanhã. Treino leve e um bom filme à noite. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 59,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Fiz a manutenção do sistema de água e revisei o cronograma. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 60,
+  "text": "Dormi bem e comecei o dia descansado. O cansaço não passa, nem o café ajudou."
+ },
+ {
+  "crew_id": "T2",
+  "day": 60,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 60,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 60,
+  "text": "Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 61,
+  "text": "A insônia voltou e o cansaço pesa. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 61,
+  "text": "Revisei os procedimentos de emergência com a comandante. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 61,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 61,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 62,
+  "text": "Estou com olheiras e não estou bem. Muito cansado hoje, não descansei nada."
+ },
+ {
+  "crew_id": "T2",
+  "day": 62,
+  "text": "Estou animado com o experimento de amanhã. Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 62,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Me sinto disposto e motivado. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 62,
+  "text": "Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 63,
+  "text": "Passei a madrugada em claro e me sinto esgotado. Estou exausto, não consegui dormir direito de novo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 63,
+  "text": "Dia tranquilo, treinei e estou bem. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 63,
+  "text": "Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 63,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 64,
+  "text": "Tive pesadelo de novo e estou sonolento."
+ },
+ {
+  "crew_id": "T2",
+  "day": 64,
+  "text": "Treino leve e um bom filme à noite. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 64,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 64,
+  "text": "Revisei os procedimentos de emergência com a comandante. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 65,
+  "text": "Estou com olheiras e não estou bem."
+ },
+ {
+  "crew_id": "T2",
+  "day": 65,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 65,
+  "text": "Limpei os filtros de ar e organizei o módulo. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 65,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 66,
+  "text": "Estou exausto, não consegui dormir direito de novo. A insônia voltou e o cansaço pesa. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 66,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 66,
+  "text": "Treino leve e um bom filme à noite. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 66,
+  "text": "Terminei o experimento da manhã. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 67,
+  "text": "Passei a madrugada em claro e me sinto esgotado. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 67,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 67,
+  "text": "Terminei o experimento da manhã. Foi um ótimo dia, me senti calmo e produtivo. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 67,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 68,
+  "text": "Tive pesadelo de novo e estou sonolento. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 68,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 68,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 68,
+  "text": "Terminei o experimento da manhã. Dormi bem e comecei o dia descansado. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 69,
+  "text": "Dia tranquilo, treinei e estou bem. Coletei amostras para o laboratório. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 69,
+  "text": "Atualizei o inventário de suprimentos. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 69,
+  "text": "Limpei os filtros de ar e organizei o módulo. Dia tranquilo, treinei e estou bem. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 69,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 70,
+  "text": "Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 70,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 70,
+  "text": "Treino leve e um bom filme à noite. Atualizei o inventário de suprimentos. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 70,
+  "text": "Vi a Terra pela janela e fiquei em paz. Atualizei o inventário de suprimentos. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T1",
+  "day": 71,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 71,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 71,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Hoje teve um certo tédio no turno da noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 71,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Fiz a manutenção do sistema de água e revisei o cronograma. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T1",
+  "day": 72,
+  "text": "Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 72,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 72,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 72,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 73,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 73,
+  "text": "Vi a Terra pela janela e fiquei em paz. Coletei amostras para o laboratório. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T3",
+  "day": 73,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 73,
+  "text": "Atualizei o inventário de suprimentos. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T1",
+  "day": 74,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 74,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 74,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 74,
+  "text": "Terminei o experimento da manhã. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T1",
+  "day": 75,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 75,
+  "text": "Me sinto disposto e motivado. Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 75,
+  "text": "Terminei o experimento da manhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 75,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 76,
+  "text": "Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 76,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T3",
+  "day": 76,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante. Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 76,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Terminei o experimento da manhã. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 77,
+  "text": "Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 77,
+  "text": "Atualizei o inventário de suprimentos. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 77,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 77,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 78,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 78,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 78,
+  "text": "Limpei os filtros de ar e organizei o módulo. Dormi bem e comecei o dia descansado. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 78,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 79,
+  "text": "Atualizei o inventário de suprimentos. Dia tranquilo, treinei e estou bem. Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 79,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 79,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 79,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 80,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 80,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 80,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 80,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 81,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 81,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 81,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 81,
+  "text": "Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 82,
+  "text": "Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T2",
+  "day": 82,
+  "text": "Coletei amostras para o laboratório. Gostei muito da conversa com a equipe no jantar. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 82,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 82,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 83,
+  "text": "Atualizei o inventário de suprimentos. Gostei muito da conversa com a equipe no jantar. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 83,
+  "text": "Limpei os filtros de ar e organizei o módulo. Estou animado com o experimento de amanhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 83,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 83,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 84,
+  "text": "Dia tranquilo, treinei e estou bem. Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 84,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 84,
+  "text": "Coletei amostras para o laboratório. Hoje teve um certo tédio no turno da noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 84,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 85,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 85,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 85,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 85,
+  "text": "Coletei amostras para o laboratório. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T1",
+  "day": 86,
+  "text": "Coletei amostras para o laboratório. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 86,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 86,
+  "text": "Atualizei o inventário de suprimentos. Dia tranquilo, treinei e estou bem. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 86,
+  "text": "Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 87,
+  "text": "Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 87,
+  "text": "Dormi bem e comecei o dia descansado. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 87,
+  "text": "Revisei os procedimentos de emergência com a comandante. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 87,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 88,
+  "text": "Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T2",
+  "day": 88,
+  "text": "Terminei o experimento da manhã. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 88,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 88,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 89,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 89,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 89,
+  "text": "Coletei amostras para o laboratório. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T4",
+  "day": 89,
+  "text": "Estou animado com o experimento de amanhã. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 90,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 90,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 90,
+  "text": "Terminei o experimento da manhã. Me sinto disposto e motivado. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 90,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 91,
+  "text": "Vi a Terra pela janela e fiquei em paz. Estou animado com o experimento de amanhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 91,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 91,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 91,
+  "text": "Vi a Terra pela janela e fiquei em paz. Revisei os procedimentos de emergência com a comandante. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 92,
+  "text": "Dormi bem e comecei o dia descansado. Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 92,
+  "text": "Terminei o experimento da manhã. Me sinto disposto e motivado. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 92,
+  "text": "Coletei amostras para o laboratório. Dia tranquilo, treinei e estou bem. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 92,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 93,
+  "text": "Dia tranquilo, treinei e estou bem. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 93,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 93,
+  "text": "Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 93,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 94,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 94,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 94,
+  "text": "Atualizei o inventário de suprimentos. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 94,
+  "text": "Vi a Terra pela janela e fiquei em paz. Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 95,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 95,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 95,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 95,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 96,
+  "text": "Treino leve e um bom filme à noite. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 96,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 96,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 96,
+  "text": "Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 97,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 97,
+  "text": "Revisei os procedimentos de emergência com a comandante. Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 97,
+  "text": "Estou animado com o experimento de amanhã. Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 97,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 98,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 98,
+  "text": "Atualizei o inventário de suprimentos. Terminei o experimento da manhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 98,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 98,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 99,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 99,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 99,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 99,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 100,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 100,
+  "text": "Terminei o experimento da manhã. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T3",
+  "day": 100,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 100,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 101,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 101,
+  "text": "Estou animado com o experimento de amanhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 101,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 101,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Foi um ótimo dia, me senti calmo e produtivo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 102,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 102,
+  "text": "Dia tranquilo, treinei e estou bem. Coletei amostras para o laboratório. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T3",
+  "day": 102,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 102,
+  "text": "Dormi bem e comecei o dia descansado. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 103,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T2",
+  "day": 103,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 103,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 103,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 104,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T2",
+  "day": 104,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 104,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 104,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 105,
+  "text": "Revisei os procedimentos de emergência com a comandante. Dia tranquilo, treinei e estou bem. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 105,
+  "text": "Estou animado com o experimento de amanhã. Vi a Terra pela janela e fiquei em paz. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 105,
+  "text": "Terminei o experimento da manhã. Dia tranquilo, treinei e estou bem. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 105,
+  "text": "Estou animado com o experimento de amanhã. Revisei os procedimentos de emergência com a comandante. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T1",
+  "day": 106,
+  "text": "Treino leve e um bom filme à noite. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 106,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 106,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 106,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T1",
+  "day": 107,
+  "text": "Estou animado com o experimento de amanhã. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 107,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 107,
+  "text": "Revisei os procedimentos de emergência com a comandante. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T4",
+  "day": 107,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 108,
+  "text": "Coletei amostras para o laboratório. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T2",
+  "day": 108,
+  "text": "Gostei muito da conversa com a equipe no jantar. Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 108,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 108,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 109,
+  "text": "Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 109,
+  "text": "Dormi bem e comecei o dia descansado. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 109,
+  "text": "Atualizei o inventário de suprimentos. Estou animado com o experimento de amanhã. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 109,
+  "text": "Dia tranquilo, treinei e estou bem. Revisei os procedimentos de emergência com a comandante. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 110,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 110,
+  "text": "Dia tranquilo, treinei e estou bem. Senti muita saudade da família hoje."
+ },
+ {
+  "crew_id": "T3",
+  "day": 110,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 110,
+  "text": "Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 111,
+  "text": "Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 111,
+  "text": "Me sinto desmotivado e não estou bem. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 111,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 111,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 112,
+  "text": "Limpei os filtros de ar e organizei o módulo. Me sinto disposto e motivado. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 112,
+  "text": "Uma tristeza que não vai embora. Me sinto sozinho aqui. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 112,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 112,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 113,
+  "text": "Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 113,
+  "text": "Senti muita saudade da família hoje."
+ },
+ {
+  "crew_id": "T3",
+  "day": 113,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 113,
+  "text": "Treino leve e um bom filme à noite. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 114,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 114,
+  "text": "A solidão pesa e não paro de pensar nos meus filhos. Me sinto desmotivado e não estou bem."
+ },
+ {
+  "crew_id": "T3",
+  "day": 114,
+  "text": "Atualizei o inventário de suprimentos. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 114,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 115,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 115,
+  "text": "Estou triste e desanimado, sem vontade de treinar."
+ },
+ {
+  "crew_id": "T3",
+  "day": 115,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 115,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 116,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 116,
+  "text": "Me sinto sozinho aqui. Uma tristeza que não vai embora. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 116,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 116,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 117,
+  "text": "Gostei muito da conversa com a equipe no jantar. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 117,
+  "text": "Me sinto desmotivado e não estou bem. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T3",
+  "day": 117,
+  "text": "Revisei os procedimentos de emergência com a comandante. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 117,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 118,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 118,
+  "text": "Me sinto solitário, nem as mensagens ajudam. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 118,
+  "text": "Atualizei o inventário de suprimentos. Coletei amostras para o laboratório. Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 118,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 119,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 119,
+  "text": "Me sinto disposto e motivado. Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 119,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 119,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 120,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 120,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 120,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 120,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 121,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 121,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 121,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 121,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 122,
+  "text": "Terminei o experimento da manhã. Treino leve e um bom filme à noite. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 122,
+  "text": "Treino leve e um bom filme à noite. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 122,
+  "text": "Terminei o experimento da manhã. Vi a Terra pela janela e fiquei em paz. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 122,
+  "text": "Dia tranquilo, treinei e estou bem. Atualizei o inventário de suprimentos. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 123,
+  "text": "Dia tranquilo, treinei e estou bem. Vi a Terra pela janela e fiquei em paz. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 123,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 123,
+  "text": "Dormi bem e comecei o dia descansado. Gostei muito da conversa com a equipe no jantar. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 123,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 124,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 124,
+  "text": "Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 124,
+  "text": "Vi a Terra pela janela e fiquei em paz. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 124,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 125,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 125,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 125,
+  "text": "Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 125,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 126,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 126,
+  "text": "Revisei os procedimentos de emergência com a comandante. Dia tranquilo, treinei e estou bem. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 126,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 126,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 127,
+  "text": "Semana com prazo apertado no treinamento."
+ },
+ {
+  "crew_id": "T2",
+  "day": 127,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 127,
+  "text": "Estou animado com o experimento de amanhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 127,
+  "text": "Revisei os procedimentos de emergência com a comandante. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T1",
+  "day": 128,
+  "text": "Vi a Terra pela janela e fiquei em paz. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 128,
+  "text": "Treino leve e um bom filme à noite. Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 128,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 128,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 129,
+  "text": "Dormi bem e comecei o dia descansado. Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 129,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 129,
+  "text": "Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 129,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T1",
+  "day": 130,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 130,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 130,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 130,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 131,
+  "text": "Limpei os filtros de ar e organizei o módulo. Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 131,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 131,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 131,
+  "text": "Terminei o experimento da manhã. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T1",
+  "day": 132,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 132,
+  "text": "Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 132,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 132,
+  "text": "Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 133,
+  "text": "Estou animado com o experimento de amanhã. Limpei os filtros de ar e organizei o módulo. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T2",
+  "day": 133,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 133,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 133,
+  "text": "Terminei o experimento da manhã. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 134,
+  "text": "Vi a Terra pela janela e fiquei em paz. Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 134,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 134,
+  "text": "Estou animado com o experimento de amanhã. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 134,
+  "text": "Limpei os filtros de ar e organizei o módulo. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 135,
+  "text": "Atualizei o inventário de suprimentos. Terminei o experimento da manhã. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 135,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 135,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 135,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 136,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 136,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 136,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 136,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T1",
+  "day": 137,
+  "text": "Terminei o experimento da manhã. Estou animado com o experimento de amanhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 137,
+  "text": "Terminei o experimento da manhã. Estou animado com o experimento de amanhã. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T3",
+  "day": 137,
+  "text": "Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 137,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 138,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 138,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 138,
+  "text": "Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 138,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 139,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 139,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T3",
+  "day": 139,
+  "text": "Vi a Terra pela janela e fiquei em paz. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 139,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 140,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 140,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 140,
+  "text": "Mais um experimento atrasado, me sinto sufocado. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 140,
+  "text": "Dia tranquilo, treinei e estou bem. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 141,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 141,
+  "text": "Limpei os filtros de ar e organizei o módulo. Dia tranquilo, treinei e estou bem. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T3",
+  "day": 141,
+  "text": "Estou atrasado e a pressão do prazo só aumenta. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 141,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 142,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Dormi bem e comecei o dia descansado. Semana com prazo apertado no treinamento."
+ },
+ {
+  "crew_id": "T2",
+  "day": 142,
+  "text": "Revisei os procedimentos de emergência com a comandante. Foi um ótimo dia, me senti calmo e produtivo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 142,
+  "text": "Sobrecarregado, não consigo dar conta de tudo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 142,
+  "text": "Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 143,
+  "text": "Coletei amostras para o laboratório. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T2",
+  "day": 143,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 143,
+  "text": "Correria o dia todo, não deu tempo de almoçar."
+ },
+ {
+  "crew_id": "T4",
+  "day": 143,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 144,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 144,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 144,
+  "text": "Estou atrasado e a pressão do prazo só aumenta. Trabalho acumulado e o prazo não espera."
+ },
+ {
+  "crew_id": "T4",
+  "day": 144,
+  "text": "Terminei o experimento da manhã. Estou animado com o experimento de amanhã. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T1",
+  "day": 145,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 145,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 145,
+  "text": "Atividades demais para pouco tempo, estou sobrecarregado. Correria o dia todo, não deu tempo de almoçar."
+ },
+ {
+  "crew_id": "T4",
+  "day": 145,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 146,
+  "text": "Terminei o experimento da manhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 146,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 146,
+  "text": "Sobrecarregado, não consigo dar conta de tudo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 146,
+  "text": "Dia tranquilo, treinei e estou bem. Terminei o experimento da manhã. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T1",
+  "day": 147,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 147,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 147,
+  "text": "Atividades demais para pouco tempo, estou sobrecarregado. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 147,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 148,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 148,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 148,
+  "text": "Sobrecarregado, não consigo dar conta de tudo. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 148,
+  "text": "Estou animado com o experimento de amanhã. Limpei os filtros de ar e organizei o módulo. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 149,
+  "text": "Revisei os procedimentos de emergência com a comandante. Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 149,
+  "text": "Me sinto disposto e motivado. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 149,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 149,
+  "text": "Dormi bem e comecei o dia descansado. Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 150,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 150,
+  "text": "Limpei os filtros de ar e organizei o módulo. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 150,
+  "text": "Terminei o experimento da manhã. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 150,
+  "text": "Me sinto disposto e motivado. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 151,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 151,
+  "text": "Dia tranquilo, treinei e estou bem. Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 151,
+  "text": "Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 151,
+  "text": "Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 152,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 152,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 152,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 152,
+  "text": "Me sinto disposto e motivado. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 153,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 153,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 153,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 153,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 154,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 154,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 154,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T4",
+  "day": 154,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 155,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 155,
+  "text": "Atualizei o inventário de suprimentos. Me sinto disposto e motivado. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 155,
+  "text": "Terminei o experimento da manhã. Atualizei o inventário de suprimentos. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 155,
+  "text": "Atualizei o inventário de suprimentos. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 156,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Terminei o experimento da manhã. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 156,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Dormi bem e comecei o dia descansado. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 156,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 156,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 157,
+  "text": "Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 157,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 157,
+  "text": "Dormi bem e comecei o dia descansado. Fiz a manutenção do sistema de água e revisei o cronograma. Vi a Terra pela janela e fiquei em paz."
+ },
+ {
+  "crew_id": "T4",
+  "day": 157,
+  "text": "Atualizei o inventário de suprimentos. Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 158,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 158,
+  "text": "Treino leve e um bom filme à noite. Revisei os procedimentos de emergência com a comandante. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T3",
+  "day": 158,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 158,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 159,
+  "text": "Me sinto disposto e motivado. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 159,
+  "text": "Atualizei o inventário de suprimentos. Limpei os filtros de ar e organizei o módulo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 159,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 159,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 160,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 160,
+  "text": "Revisei os procedimentos de emergência com a comandante. Treino leve e um bom filme à noite. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 160,
+  "text": "Dormi bem e comecei o dia descansado. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 160,
+  "text": "Me sinto disposto e motivado. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T1",
+  "day": 161,
+  "text": "Limpei os filtros de ar e organizei o módulo. Foi um ótimo dia, me senti calmo e produtivo. Um pouco de correria no fim do turno."
+ },
+ {
+  "crew_id": "T2",
+  "day": 161,
+  "text": "Me sinto disposto e motivado. Atualizei o inventário de suprimentos. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T3",
+  "day": 161,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 161,
+  "text": "Dormi bem e comecei o dia descansado. Dia tranquilo, treinei e estou bem. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 162,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 162,
+  "text": "Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 162,
+  "text": "Dormi bem e comecei o dia descansado. Revisei os procedimentos de emergência com a comandante. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 162,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 163,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 163,
+  "text": "Dia tranquilo, treinei e estou bem. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 163,
+  "text": "Estou animado com o experimento de amanhã. Dia tranquilo, treinei e estou bem. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 163,
+  "text": "Atualizei o inventário de suprimentos. Dormi bem e comecei o dia descansado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 164,
+  "text": "Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T2",
+  "day": 164,
+  "text": "Estou animado com o experimento de amanhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T3",
+  "day": 164,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 164,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 165,
+  "text": "Treino leve e um bom filme à noite. Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 165,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 165,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 165,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Revisei os procedimentos de emergência com a comandante. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 166,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 166,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 166,
+  "text": "Atualizei o inventário de suprimentos. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 166,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 167,
+  "text": "Treino leve e um bom filme à noite. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 167,
+  "text": "Atualizei o inventário de suprimentos. Estou animado com o experimento de amanhã. Treino leve e um bom filme à noite."
+ },
+ {
+  "crew_id": "T3",
+  "day": 167,
+  "text": "Revisei os procedimentos de emergência com a comandante. Gostei muito da conversa com a equipe no jantar."
+ },
+ {
+  "crew_id": "T4",
+  "day": 167,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 168,
+  "text": "Terminei o experimento da manhã. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 168,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 168,
+  "text": "Atualizei o inventário de suprimentos. Terminei o experimento da manhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T4",
+  "day": 168,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 169,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Treino leve e um bom filme à noite. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 169,
+  "text": "Gostei muito da conversa com a equipe no jantar. Atualizei o inventário de suprimentos. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 169,
+  "text": "Limpei os filtros de ar e organizei o módulo. Dormi bem e comecei o dia descansado. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 169,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T1",
+  "day": 170,
+  "text": "Revisei os procedimentos de emergência com a comandante. Vi a Terra pela janela e fiquei em paz. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 170,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 170,
+  "text": "Estou animado com o experimento de amanhã. Me sinto disposto e motivado. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 170,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 171,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 171,
+  "text": "Me sinto disposto e motivado. Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 171,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T4",
+  "day": 171,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 172,
+  "text": "Revisei os procedimentos de emergência com a comandante. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 172,
+  "text": "Coletei amostras para o laboratório. Dia tranquilo, treinei e estou bem. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T3",
+  "day": 172,
+  "text": "Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 172,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 173,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 173,
+  "text": "Vi a Terra pela janela e fiquei em paz. Limpei os filtros de ar e organizei o módulo. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 173,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 173,
+  "text": "Treino leve e um bom filme à noite. Terminei o experimento da manhã. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 174,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T2",
+  "day": 174,
+  "text": "Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T3",
+  "day": 174,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 174,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T1",
+  "day": 175,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 175,
+  "text": "Coletei amostras para o laboratório. Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 175,
+  "text": "Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T4",
+  "day": 175,
+  "text": "Coletei amostras para o laboratório. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 176,
+  "text": "Me sinto disposto e motivado. Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T2",
+  "day": 176,
+  "text": "Dia tranquilo, treinei e estou bem. Terminei o experimento da manhã. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T3",
+  "day": 176,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Coletei amostras para o laboratório. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T4",
+  "day": 176,
+  "text": "Revisei os procedimentos de emergência com a comandante. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T1",
+  "day": 177,
+  "text": "Revisei os procedimentos de emergência com a comandante. Atualizei o inventário de suprimentos. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 177,
+  "text": "Coletei amostras para o laboratório. Atualizei o inventário de suprimentos. Me sinto disposto e motivado."
+ },
+ {
+  "crew_id": "T3",
+  "day": 177,
+  "text": "Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo. Terminei o experimento da manhã."
+ },
+ {
+  "crew_id": "T4",
+  "day": 177,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T1",
+  "day": 178,
+  "text": "Foi um ótimo dia, me senti calmo e produtivo. Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T2",
+  "day": 178,
+  "text": "Gostei muito da conversa com a equipe no jantar. Revisei os procedimentos de emergência com a comandante. Dia tranquilo, treinei e estou bem."
+ },
+ {
+  "crew_id": "T3",
+  "day": 178,
+  "text": "Atualizei o inventário de suprimentos. Coletei amostras para o laboratório. Fiz a manutenção do sistema de água e revisei o cronograma."
+ },
+ {
+  "crew_id": "T4",
+  "day": 178,
+  "text": "Coletei amostras para o laboratório."
+ },
+ {
+  "crew_id": "T1",
+  "day": 179,
+  "text": "Fiz a manutenção do sistema de água e revisei o cronograma. Estou animado com o experimento de amanhã."
+ },
+ {
+  "crew_id": "T2",
+  "day": 179,
+  "text": "Coletei amostras para o laboratório. Terminei o experimento da manhã. Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T3",
+  "day": 179,
+  "text": "Treino de simulação um pouco repetitivo hoje."
+ },
+ {
+  "crew_id": "T4",
+  "day": 179,
+  "text": "Limpei os filtros de ar e organizei o módulo."
+ },
+ {
+  "crew_id": "T1",
+  "day": 180,
+  "text": "Atualizei o inventário de suprimentos. Revisei os procedimentos de emergência com a comandante."
+ },
+ {
+  "crew_id": "T2",
+  "day": 180,
+  "text": "Revisei os procedimentos de emergência com a comandante. Limpei os filtros de ar e organizei o módulo. Foi um ótimo dia, me senti calmo e produtivo."
+ },
+ {
+  "crew_id": "T3",
+  "day": 180,
+  "text": "Atualizei o inventário de suprimentos."
+ },
+ {
+  "crew_id": "T4",
+  "day": 180,
+  "text": "Revisei os procedimentos de emergência com a comandante. Coletei amostras para o laboratório."
+ }
+]
