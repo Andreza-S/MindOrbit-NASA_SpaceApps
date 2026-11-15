@@ -5,7 +5,7 @@
 NASA Space Apps Challenge 2026 · Challenge: [Create Health Monitoring Software for Astronauts on Space Missions](https://www.spaceappschallenge.org/2026/challenges/health-monitoring-software/) · Team **Elas**
 
 ### ▶ Try it now: **https://mindorbit.streamlit.app/**
-![submission video](https://drive.google.com/file/d/1DCv_aKXNj9lVBH0ZiUhZODAncd7vlIAE/view?usp=sharing)
+[submission video](https://drive.google.com/file/d/1DCv_aKXNj9lVBH0ZiUhZODAncd7vlIAE/view?usp=sharing)
 
 No login, no install. The app opens in English (switch to Portuguese at the top). It may take a few seconds to wake up if nobody has used it recently.
 
